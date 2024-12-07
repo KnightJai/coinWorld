@@ -141,11 +141,11 @@ crypto-website/
 
 │   ├── assets
 
-    ├── components/   # Reusable React components
+    ├── components/  1)Footer 2)Linechart 3) Navbar  # Reusable React components
 
     ├── context  
 
-│   ├── pages/        # Page components
+│   ├── pages/ 1) Coin 2)Home       # Page components
 
 │   ├── App.jsx       # Main app entry point
 
